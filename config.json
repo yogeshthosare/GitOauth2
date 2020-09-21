@@ -1,0 +1,9 @@
+{
+        "port": ":8080",
+        "clientId": "your-client-id",
+        "clientSecret": "your-client-secret",
+        "redirectUri": "http://localhost:8080/oauth/redirect",
+	"authorizeEndpoint": "https://github.com/login/oauth/authorize",
+	"repoEndpoint" : "https://github.com/yogeshthosare/ts.git",
+	"accessTokenEndpoint" : "https://github.com/login/oauth/access_token"
+}
